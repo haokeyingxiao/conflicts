@@ -1,0 +1,2 @@
+# conflicts
+HaoKe conflicting packages
